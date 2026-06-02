@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Dataset
+dataset/
+backend/dataset/
+
+# Uploaded files
+uploads/
+
+# Model files
+*.onnx
+*.h5
+*.keras
+*.pth
+
+# Secrets
+firebase_config.json
+.env
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
